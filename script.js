@@ -1,3 +1,4 @@
+//script
 //e - enter
 //o - ober
 //i - imes
